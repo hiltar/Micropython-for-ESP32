@@ -13,3 +13,5 @@ TODO
 [ESP-QEMU](https://github.com/espressif/qemu/wiki)
 
 [Example](https://github.com/espressif/rust-esp32-example)
+
+[Demo](https://github.com/ivmarkov/rust-esp32-std-demo/)
